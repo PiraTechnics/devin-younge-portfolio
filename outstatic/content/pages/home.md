@@ -2,16 +2,16 @@
 title: 'Home'
 status: 'published'
 author:
-  name: 'Andre Vitorio'
-  picture: ''
+  name: 'Devin Younge'
+  picture: '/images/profile-signature-AwOD.jpg'
 slug: 'home'
 description: 'This is my blog.'
 coverImage: ''
 publishedAt: '2022-03-17T05:35:07.322Z'
 ---
 
-## Hello!
+## Hi there,
 
-# I'm Andre, nice to meet you.
+# I'm Devin, nice to meet you.
 
-I am a surfer + musician + software developer + designer + online marketer and whatever else I can cram into this existence.
+I am a Web Developer, Writer, Tabletop Games Enthusiast, and do-er of things. This is my page
