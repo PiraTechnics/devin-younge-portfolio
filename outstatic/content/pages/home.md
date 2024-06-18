@@ -3,11 +3,11 @@ title: 'Home'
 status: 'published'
 author:
   name: 'Devin Younge'
-  picture: '/images/profile-signature-AwOD.jpg'
+  picture: '/images/profile-signature-M2NT.jpg'
 slug: 'home'
 description: 'This is my blog.'
 coverImage: ''
-publishedAt: '2022-03-17T05:35:07.322Z'
+publishedAt: '2024-06-18T22:15:07.000Z'
 ---
 
 ## Hi there,
